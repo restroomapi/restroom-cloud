@@ -1,0 +1,15 @@
+{
+  "name": "restroom-cloud",
+  "version": "0.0.0",
+  "description": "RestroomAPI server",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/restroomapi/restroom-cloud.git"
+  },
+  "dependencies": {
+    "express": "~2.5.11",
+    "mongoskin": "~0.3.7",
+    "node_hash": "~0.2.0",
+    "oauth2-provider": ">=1.0.0 <2.0.0"
+  }
+}
