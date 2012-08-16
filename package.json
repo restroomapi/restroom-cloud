@@ -10,6 +10,6 @@
     "express": "~2.5.11",
     "mongoskin": "~0.3.7",
     "node_hash": "~0.2.0",
-    "oauth2-provider": ">=1.0.0 <2.0.0"
+    "formidable": "~1.0.11"
   }
 }
